@@ -1,3 +1,10 @@
 //What happens when you initialize a repository? Why do you need to do it?
 
 empty git repository is created. This is to make sure that the repository is created and able to track down when making changes on the files inside.
+
+
+//How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a meta storage that keeps modified files before updating all changes made using commit. This is to follow all-or-nothing concept.
+
+//Changes made on lesson 2
