@@ -1,0 +1,3 @@
+//What happens when you initialize a repository? Why do you need to do it?
+
+empty git repository is created. This is to make sure that the repository is created and able to track down when making changes on the files inside.
